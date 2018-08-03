@@ -1,6 +1,6 @@
 Ao abrir "Transações" no menu lateral, você encontra uma lista de transações, mostrada por padrão por ordem de data, da mais nova para a mais antiga. Essa lista mostra todas as compras realizadas na sua loja, mas você pode usar as ferramentas de busca para filtrar os resultados. Veja aqui como fazer isso. 
 
-![Lista de transações](https://s3.amazonaws.com/pagarme-public-files/69219_ss_roteiro_3.jpg)
+<img src="../img/Transações/ss_roteiro_3.jpg" alt="Lista de transações" />
 
 ## Reorganizando as colunas da lista de transações 
 
