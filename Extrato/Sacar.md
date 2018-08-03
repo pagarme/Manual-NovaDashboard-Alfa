@@ -6,7 +6,7 @@ Nesta tela é possível visualizar o quanto você pode sacar, e se houver saldo,
 
 <p align="center"> <img src="../img/Saque/MenuNavegacaoSaque.jpg" alt="Menu Saque"/> </p>
 
-<p align="center"> <img src="../img/Saque/MenuNavegacaoSaque.jpg" alt="Modal Saque"/> </p>
+<p align="center"> <img src="../img/Saque/ModalSaque.jpg" alt="Modal Saque"/> </p>
 
 
 Agora é só preencher o valor do saque e clicar em "Continuar" para prosseguir a tarefa. Vale ressaltar que nesta mesma página, você consegue consultar o custo da transferência (quando é feito um saque, é realizada uma transferência da sua conta Pagar.me para a conta corrente em questão, por isso o banco cobra uma taxa de transferência pelo serviço realizado), e quanto será o valor líquido. Isto é, a quantia que será efevetivamente recebida, sendo o resultado do valor solicitado menos o custo da transferência. 
