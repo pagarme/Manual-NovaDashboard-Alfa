@@ -4,7 +4,7 @@ Na tela de Extrato da sua Dashboard você pode encontrar as movimentações e os
 
 [inserir imagem primeira parte da tela]
 
-Nesta mesma página é possível visualizar o quanto sua conta tem disponível para Saque e para Antecipação, você pode saber mais sobre eles nos artigos [**Realizando um saque**](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Extrato/Sacar.md) e **Realizando uma antecipação** [inserir hiperlinks depois de publicado]. Em "Solicitaçõs recentes", você pode ver quais foram os últimos saques e antecipações realizadas pela sua conta. 
+Nesta mesma página é possível visualizar o quanto sua conta tem disponível para Saque e para Antecipação, você pode saber mais sobre eles nos artigos [**Realizando um saque**](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Extrato/Sacar.md) e [**Realizando uma antecipação**](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Extrato/Antecipar.md). Em "Solicitaçõs recentes", você pode ver quais foram os últimos saques e antecipações realizadas pela sua conta. 
 
 [inserir imagem solicitação] 
 
