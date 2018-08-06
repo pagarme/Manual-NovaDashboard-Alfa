@@ -10,6 +10,9 @@ No campo "Valor", é indicado por padrão o total da compra, mas você pode esto
 
 **Atenção**: transações que passaram pela Rede e pela eRede possuem o limite de R$ 5.000,00 de valor para estorno. Para fazer o estorno de um montante maior do que esse, é preciso criar dois ou mais estornos parciais de valores menores, até atingir a quantia certa.
 
+<p align="center" > <img src="../img/Transações/Estornando Transacoes Cartao/modalEstorno.png" /> </p>
+
+
 ## 2) Confirme os dados
 
 Ao clicar em "Continuar", uma nova tela é aberta na qual você precisa rever os dados para saber se está tudo correto. Se estiver, é necessário fazer a autenticação no campo "Digite a sua senha", para garantir que é você mesmo que está realizando essa ação. Se o valor estiver errado, clique no botão "Voltar" para retornar à tela anterior. 
@@ -22,4 +25,10 @@ Para estorno parcial, a transação permanece com o status "Pago". Para estornos
 
 Tenha em mente que a partir do momento que você clicar em "Estornar Transação", isso não pode ser desfeito. 
 
-Na última tela do modal é mostrado o comprovante do estorno. Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](link para artigo de detalhes da transação), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
+<p align="center" > <img src="../img/Transações/Estornando Transacoes Boleto/modalConfirmacao.png" /> </p>
+
+Na última tela do modal é mostrado o comprovante do estorno: 
+
+<p align="center" > <img src="../img/Transações/Estornando Transacoes Cartao/modalOperacao.png" /> </p>
+
+Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](link para artigo de detalhes da transação), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
