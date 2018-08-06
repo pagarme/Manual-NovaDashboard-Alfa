@@ -2,19 +2,20 @@ Quando você clica em uma transação da lista, pode abrir uma tela para ver os 
 
 Logo no topo da tela estão os detalhes principais: o ID e o status da transação, a forma de pagamento (Boleto bancário, Cartão à vista ou Cartão parcelado) e o valor que foi autorizado, para compras feitas com Cartão de crédito, ou o valor do Boleto que foi gerado, para compras feitas com Boleto bancário.
 
-Reprocessar, estornar e exportar
-(imagem do topo, com os três botões)
+Reprocessar e estornar.
 
-Na parte de cima da tela existem três botões: reprocessar, estornar e exportar. O primeiro, como o nome sugere, permite reprocessar uma transação se algo deu errado no momento da sua criação.(ver mais detalhes).
+Na parte de cima da tela existem dois botões: reprocessar e estornar . O primeiro, como o nome sugere, permite reprocessar uma transação se algo deu errado no momento da sua criação. 
 
-O segundo botão, "Estornar", permite devolver o valor integral ou parcial de uma compra para o cliente. Quando você clica nele, um modal é aberto e guia você pelos passos necessários para realizar o estorno, que pode ser feito para compras de Cartão de crédito ou Boleto. Para saber mais sobre os passos para estornar uma transação, clique aqui (link para página Estornando uma transação do manual).
+<img src="../img/Transações/Vendo os detalhes de uma transacao/Reprocessar.png" />
 
-O último botão permite exportar em um arquivo todos os detalhes da compra, como se encontram no momento. Por exemplo, se você exportar os detalhes de uma transação que está com o status "Pago", e depois ela sofrer um chargeback, o arquivo que foi exportado não é atualizado e perde a validade.
+O segundo botão, "Estornar", permite devolver o valor integral ou parcial de uma compra para o cliente. Quando você clica nele, um modal é aberto e guia você pelos passos necessários para realizar o estorno, que pode ser feito para compras de Cartão de crédito ou Boleto. Para saber mais sobre os passos para estornar uma transação, clique aqui para [transações de boleto](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Transacoes/Estornando%20transa%C3%A7%C3%B5es%20de%20Boleto.md) e para [transações de cartão de crédito](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Transacoes/Estornando%20transa%C3%A7%C3%B5es%20de%20Cart%C3%A3o%20de%20cr%C3%A9dito.md). 
+
+<img src="../img/Transações/Vendo os detalhes de uma transacao/Estornar.png" />
 
 Valor capturado, saídas e valor líquido
 É possível acompanhar rapidamente quanto você vai efetivamente receber em uma venda: na parte de cima da tela existem três dados em cards: "Valor capturado", "Total de saídas" e "Valor líquido".
 
-(imagem cards)
+<img src="../img/Transações/Vendo os detalhes de uma transacao/Cards.png" />
 
 O primeiro indica quanto foi efetivamente capturado na transação, isto é, o valor bruto da venda. O segundo card mostra todos os descontos e outras saídas que podem ter sido aplicadas ao valor, como o MDR, um estorno parcial ou total e outros.
 
@@ -23,14 +24,19 @@ Por fim, o valor líquido é uma conta simples entre os dois primeiros: o valor 
 Histórico da Transação
 Essa coluna, mostrada como uma linha do tempo, traz as informações mais relevantes sobre os eventos de uma transação. Essa timeline é mostrada de cima para baixo – isto é, eventos mais antigos são mostrados para baixo, e os mais recentes ficam no topo da coluna.
 
-(imagens com vários cenários de histórico)
+<p align="center"> <img src="../img/Transações/Vendo os detalhes de uma transacao/Boleto.png" /> </p>
+<p align="center">  <img src="../img/Transações/Vendo os detalhes de uma transacao/CC.png" /> </p>
+<p align="center">  <img src="../img/Transações/Vendo os detalhes de uma transacao/CCCB.png" /> </p>
+<p align="center"> <img src="../img/Transações/Vendo os detalhes de uma transacao/E.png" /> </p>
+<p align="center"> <img src="../img/Transações/Vendo os detalhes de uma transacao/EP.png" /> </p>
+
 
 Normalmente, o primeiro evento dessa coluna é a autorização da operadora de cartão, para vendas por Cartão de crédito, e depois a análise do antifraude. Outros eventos mostrados são a captura, a emissão e pagamento do boleto, eventuais chargebacks e estornos e a liquidação do valor (isto é, quando o valor daquela compra fica disponível no seu saldo para saque).
 
 Parcelas de uma transação
 No campo "Parcelas" é possível ver todas as parcelas de uma transação de Cartão de crédito. É ali que você vê quais parcelas já foram pagas – ou seja, quais você já recebeu – e quais você ainda receberá. Cada parcela traz os seguintes dados: status, data de pagamento, total bruto, MDR, serviço de antecipação, estorno ou chargeback e valor líquido.
 
-(imagem colunas de parcelas)
+<img src="../img/Transações/Vendo os detalhes de uma transacao/Parcelas.png"/>
 
 O "Total bruto" é o valor pago pelo seu cliente naquela parcela. O MDR é o desconto da adquirente e o serviço de antecipação é a taxa aplicada caso você tenha antecipado aquela parcela. Se foi realizado o estorno total ou parcial da compra, ou se o seu cliente tiver solicitado o chargeback, isso é mostrado na coluna "Estorno ou chargeback".
 
