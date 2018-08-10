@@ -1,5 +1,3 @@
-# Manual-Pilot-Alfa
-
 ## Olá bem vindo ao manual da nova dashboard. 
 
 Selecione a página que deseja visualizar
