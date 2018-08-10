@@ -1,6 +1,6 @@
 Para estornar uma transação, primeiro você precisa encontrá-la. Entre em "Transações", no menu lateral, e use as [opções de busca](https://github.com/pagarme/Manual-Pilot-Alfa/blob/master/Transacoes/Encontrando%20transa%C3%A7%C3%B5es.md) para achar a compra que precisa ser estornada. 
 
-Assim que você encontrar a transação desejada, clique uma vez nela para abrir as opções avançadas e então clique em "[Ver detalhes](link para artigo de detalhes da transação)". No topo da tela que é aberta existe o botão "Estornar", clique nele. Caso a transação tenha sido paga por Boleto bancário, é preciso seguir os passos a seguir para realizar a devolução total ou parcial do valor.
+Assim que você encontrar a transação desejada, clique uma vez nela para abrir as opções avançadas e então clique em "[Ver detalhes](https://pagarme.github.io/Manual-NovaDashboard-Alfa/Vendo%20os%20detalhes%20de%20uma%20transa%C3%A7%C3%A3o)". No topo da tela que é aberta existe o botão "Estornar", clique nele. Caso a transação tenha sido paga por Boleto bancário, é preciso seguir os passos a seguir para realizar a devolução total ou parcial do valor.
 
 ## 1) Coloque os dados bancários do cliente 
 
