@@ -4,7 +4,7 @@ As chaves de acesso (API e Criptografia) do Pagar.me podem ser encontradas na su
 
 Nesta tela, você tem acesso a informações sobre as taxas cobradas e também às chaves, para utilizá-las clique em "Chaves de API e Criptografia", como mostra a imagem abaixo. 
 
-<img src="../img/Configuracoes/Encontrando%20as%20chaves%20de%20API%20e%20Criptografia/chaves.png" alt="Menu Chaves de API" /> 
+<img src="img/Configuracoes/Encontrando%20as%20chaves%20de%20API%20e%20Criptografia/chaves.png" alt="Menu Chaves de API" /> 
 
 Nesta tela, estão disponíveis as chaves de: 
 
@@ -18,4 +18,4 @@ Nesta tela, estão disponíveis as chaves de:
 
 Para utilizar a chave necessária, clique no botão "Copiar" e cole-a onde ela deve ser informada, por exemplo no corpo de uma requisição que contenha o parâmetro etc. Para mais informações sobre as rotas, acesse a nossa [Documentação](https://docs.pagar.me/reference) :). 
 
-<img src="../img/Configuracoes/Encontrando%20as%20chaves%20de%20API%20e%20Criptografia/chavesApi.png" alt="Copiar chaves de API" />
+<img src="img/Configuracoes/Encontrando%20as%20chaves%20de%20API%20e%20Criptografia/chavesApi.png" alt="Copiar chaves de API" />

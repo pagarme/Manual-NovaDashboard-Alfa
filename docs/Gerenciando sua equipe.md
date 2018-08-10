@@ -6,13 +6,13 @@ Para cadastrar sua equipe, acesse sua Dashboard e siga o caminho Menu > Configur
 
 Na tabela de usuários é possível ver o nome, a data em que ele foi criado, o nível de acesso dele, seu status e também executar algumas ações como editar ou excluir. 
 
-<img src="../img/Configuracoes/Equipe/01_equipe.jpg" alt="Tabela membros da equipe"/> 
+<img src="img/Configuracoes/Equipe/01_equipe.jpg" alt="Tabela membros da equipe"/> 
 
 ## Adicionando um usuário 
 
 Para adicionar um novo usuário, clique no botão "Adicionar usuário", localizado ao lado da busca. 
 
-<img src="../img/Configuracoes/Equipe/02_adicionar_usuario.jpg" alt="Adicionar Membro da equipe"/> 
+<img src="img/Configuracoes/Equipe/02_adicionar_usuario.jpg" alt="Adicionar Membro da equipe"/> 
 
 No modal em que é aberto, depois de adicionar o e-mail do usuário, é necessário escolher o seu nível de acesso, que pode ser:
 
@@ -30,7 +30,7 @@ Depois de adicionado, é possível editar algumas informações dos membros da s
 
 Clique no ícone de lápis do usuário desejado, na coluna "Ações" da tabela de usuários.
 
-<img src="../img/Configuracoes/Equipe/03_editar.jpg" alt="Editar Membro da equipe"/> 
+<img src="img/Configuracoes/Equipe/03_editar.jpg" alt="Editar Membro da equipe"/> 
 
 No modal que é aberto, é possível alterar o e-mail e o nível de acesso deste usuário. O fluxo de alteração do e-mail é o mesmo de adicionar um usuário: o membro da equipe recebe um e-mail e confirma seu acesso. 
 
@@ -39,7 +39,7 @@ No modal que é aberto, é possível alterar o e-mail e o nível de acesso deste
 
 Para excluir um membro da sua equipe, acesse sua Dashboard e siga o caminho Menu > Configurações > Equipe. Clique no ícone de lixeira do usuário desejado, na coluna "Ações" da tabela. 
 
-<img src="../img/Configuracoes/Equipe/04_excluir.jpg" alt="Excluir Membro da equipe"/> 
+<img src="img/Configuracoes/Equipe/04_excluir.jpg" alt="Excluir Membro da equipe"/> 
 
 No modal que é aberto, você pode confirmar ou cancelar a exclusão do usuário. :) 
 

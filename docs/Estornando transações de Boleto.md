@@ -6,7 +6,7 @@ Assim que você encontrar a transação desejada, clique uma vez nela para abrir
 
 Assim que o modal de estorno é aberto em uma transação paga por Boleto bancário, você precisa informar os dados bancários do cliente para realizar a devolução do valor.  
 
-<p align="center" > <img src="../img/Transações/Estornando Transacoes Boleto/modalEstorno.png" /> </p>
+<p align="center" > <img src="img/Transações/Estornando Transacoes Boleto/modalEstorno.png" /> </p>
 
 Na verdade, o que é feito é uma transferência do valor da sua conta Pagar.me para a conta bancária do cliente, então você precisa primeiro conseguir esses dados com o comprador. Para transferências direcionadas a contas do Bradesco a taxa não é cobrada, já que se trata do mesmo banco que o Pagar.me utiliza. Transferências para os demais bancos possuem uma cobrança de R$3,67 (TED ou DOC). 
 
@@ -18,12 +18,12 @@ Para estorno parcial, a transação permanece com o status "Pago". Para estornos
 
 ## 3) Confirme e reveja os dados 
 
-<p align="center" > <img src="../img/Transações/Estornando Transacoes Boleto/modalConfirmacao.png" /> </p>
+<p align="center" > <img src="img/Transações/Estornando Transacoes Boleto/modalConfirmacao.png" /> </p>
 
 Ao clicar em "Continuar", uma nova tela é aberta na qual você precisa rever os dados para saber se está tudo correto. Se estiver, é necessário fazer a autenticação no campo "Digite a sua senha", para garantir que é você mesmo que está realizando essa ação. Caso algum dado estiver errado, clique no botão "Voltar" para retornar à tela anterior. 
 
 Tenha em mente que a partir do momento que você clicar em "Estornar Transação", isso não pode ser desfeito. 
 
-<p align="center" > <img src="../img/Transações/Estornando Transacoes Boleto/modalEstorno.png" /> </p>
+<p align="center" > <img src="img/Transações/Estornando Transacoes Boleto/modalEstorno.png" /> </p>
 
 Na última tela do modal é mostrado o comprovante do estorno. Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](link para artigo de detalhes da transação), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
