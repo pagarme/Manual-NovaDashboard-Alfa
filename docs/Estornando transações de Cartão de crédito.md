@@ -25,7 +25,7 @@ Para estorno parcial, a transação permanece com o status "Pago". Para estornos
 
 Tenha em mente que a partir do momento que você clicar em "Estornar Transação", isso não pode ser desfeito. 
 
-<p align="center" > <img src="img/Transações/Estornando Transacoes Boleto/modalConfirmacao.png" /> </p>
+<p align="center" > <img src="https://user-images.githubusercontent.com/29930809/44132374-9f0e7e6a-a02f-11e8-9372-5920e69a6e7e.jpg" /> </p>
 
 Na última tela do modal é mostrado o comprovante do estorno: 
 
