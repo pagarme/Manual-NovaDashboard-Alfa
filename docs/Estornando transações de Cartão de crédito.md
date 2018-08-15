@@ -31,4 +31,4 @@ Na última tela do modal é mostrado o comprovante do estorno:
 
 <p align="center" > <img src="img/Transações/Estornando Transacoes Cartao/modalOperacao.png" /> </p>
 
-Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](link para artigo de detalhes da transação), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
+Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](https://pagarme.github.io/Manual-NovaDashboard-Alfa/Vendo%20os%20detalhes%20de%20uma%20transa%C3%A7%C3%A3o), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
