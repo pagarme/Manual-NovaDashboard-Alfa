@@ -4,7 +4,7 @@ Para consultar e solicitar alterações das taxas e serviços cobrados, acesse s
 
 Na tela que é aberta, é possível visualizar as configurações gerais da sua conta. Para consultar as taxas cobradas pelos serviços do Pagar.me, clique na setinha localizada no canto superior direito da caixinha "Taxas e Serviços". 
 
-<img src="img/Configuracoes/Consultando%20suas%20taxas/taxas.png" alt="Menu Taxas" />
+<img src="https://user-images.githubusercontent.com/29930809/44131962-b35f9fb4-a02c-11e8-8637-83f3007cee32.png" alt="Menu Taxas" />
 
 Nesta seção, você pode consultar todos os valores que foram negociados e acordados com o Pagar.me, caso você queira solicitar alguma mudança é necessário entrar em contato conosco. 
 
