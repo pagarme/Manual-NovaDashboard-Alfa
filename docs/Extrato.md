@@ -24,4 +24,4 @@ Para visualizar os valores discriminadamente, você pode descer um pouco nesta m
 
 <p alignt="center"> <img src="img/Extrato/05_tabela.jpg" /> </p>
 
-Caso você deseje consultar as movimentações de outro período, suba até o início da página e selecione outra aba ou altere o período utilizando o calendário e depois clique em "Filtrar". 
+Caso você deseje consultar as movimentações de outro período, altere a data utilizando o calendário e depois clique em "Filtrar". 
