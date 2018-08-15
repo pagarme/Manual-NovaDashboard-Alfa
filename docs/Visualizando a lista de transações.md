@@ -1,6 +1,6 @@
 Ao abrir "Transações" no menu lateral, você encontra uma lista de transações, mostrada por padrão por ordem de data, da mais nova para a mais antiga. Essa lista mostra todas as compras realizadas na sua loja, mas você pode usar as ferramentas de busca para filtrar os resultados. Veja aqui como fazer isso. 
 
-<img src="../img/Transações/ss_roteiro_3.jpg" alt="Lista de transações" />
+<img src="https://user-images.githubusercontent.com/29930809/44132837-6a142ed2-a032-11e8-9d54-f4ddfeb79ca6.png" alt="Lista de transações" />
 
 ## Reorganizando as colunas da lista de transações 
 
