@@ -24,6 +24,4 @@ Ao clicar em "Continuar", uma nova tela é aberta na qual você precisa rever os
 
 Tenha em mente que a partir do momento que você clicar em "Estornar Transação", isso não pode ser desfeito. 
 
-<p align="center" > <img src="img/Transações/Estornando Transacoes Boleto/modalEstorno.png" /> </p>
-
-Na última tela do modal é mostrado o comprovante do estorno. Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](link para artigo de detalhes da transação), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
+Na última tela do modal é mostrado o comprovante do estorno. Se você clicar em "Visualizar transação", vai para a tela de [detalhes dessa compra](https://pagarme.github.io/Manual-NovaDashboard-Alfa/Vendo%20os%20detalhes%20de%20uma%20transa%C3%A7%C3%A3o), que agora mostra esse estorno – total ou parcial – na coluna "Histórico da transação".  
